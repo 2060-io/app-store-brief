@@ -98,7 +98,7 @@ When creating your artwork, ensure it conforms to the following:
 
 
 
-## Screen captures (Topics)
+## Screen captures (Topics or Preview)
 
 Each topic must have an illustration. Total 7 topics/preview/screenshot. Example of a topic with signal on app store:
 
