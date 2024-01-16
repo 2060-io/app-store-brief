@@ -52,9 +52,9 @@ For the App we are only using the #3EBDB6 green.
 
 ### Guidelines
 
-The name of the brand is "2060", but brand name of the App will be "Hologram"
+The name of the brand is "2060", but brand name of the App will be "Hologram". Web site will be updated accordingly.
 
-For that reason, you are free to use other colors for the creatives (icon, previews, other banners, app splash screen), the only requirement is that it must combine with the #3EBDB6 green at some point in the app. By seeing the attached screeshots, you will see that we are using very few colors.
+For that reason, you are free to use other colors for the creatives (icon, previews, other banners, app splash screen), the only requirement is that it must combine with the #3EBDB6 green at some point in the app. By seeing the attached screenshots, you will see that we are using very few colors.
 
 App icon not necessarily must use the #3EBDB6 green. But other creatives (Previews, etc) must combine with app colors.
 
