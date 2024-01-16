@@ -212,3 +212,8 @@ Only people that you invited can talk to you!
 Feature Graphics: Used sometimes for advertising or when providing a video. Your feature graphic must be a PNG or JPEG, up to 15 MB, and 1,024 px by 500 px.
 
 [See these details](https://www.apptamin.com/blog/feature-graphic-play-store/)
+
+
+## Spash screen
+
+We need the App splash screen which is shown when App starts or when it is in background
