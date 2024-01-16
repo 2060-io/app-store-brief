@@ -214,6 +214,6 @@ Feature Graphics: Used sometimes for advertising or when providing a video. Your
 [See these details](https://www.apptamin.com/blog/feature-graphic-play-store/)
 
 
-## Spash screen
+## Splash screen
 
 We need the App splash screen which is shown when App starts or when it is in background
