@@ -91,6 +91,10 @@ Regarding the colors, we could do several attempts:
 
 You can use any source of inspiration in the old directory.
 
+These examples are interesting but lack contrast when icon is small:
+
+
+
 
 ![Alt text](image-3.png)
 
@@ -99,6 +103,8 @@ You can use any source of inspiration in the old directory.
 
 
 ![Alt text](image-5.png)
+
+
 
 
 ## Icon
