@@ -92,6 +92,15 @@ Regarding the colors, we could do several attempts:
 You can use any source of inspiration in the old directory.
 
 
+![Alt text](image-3.png)
+
+
+![Alt text](image-4.png)
+
+
+![Alt text](image-5.png)
+
+
 ## Icon
 
 ### Store Constraints
