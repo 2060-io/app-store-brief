@@ -71,6 +71,27 @@ App icon not necessarily must use the #3EBDB6 green. But other creatives (Previe
 - **modernity, web3, innovation**: some time ago we designed a first concept for 2060.io. I put the related creatives in the "old" directory. These creatives have a great sense of modernity, web3, but these are not directly suitable for an app icon. Maybe the old/home-open.png, the old/integrate-dapps.png could be of interest. The old/operate-agency.png shows an hologram (in the cube) which is the result of the interferences of several signals. I like the glow effect of the old/home-open.png.
 
 
+#### Examples
+
+(taken from the old directory)
+
+
+![Alt text](image.png)
+
+here we can see signals that are entering the cube and creating an hologram inside
+
+![Alt text](image-1.png)
+
+a combination of the two could be an idea. I mean, a single transparent cube with glowing below, and some signals entering the cube and generating an hologram inside. but of course less detailed as icons does not give enough resolution for something very detailed.
+
+Regarding the colors, we could do several attempts:
+- One attempt by combining #3EBDB6 and #7678ED, which are the colors used in 2060.io
+- One attempt by using colors of the first example above
+- One attempt by using colors of the second example above
+
+You can use any source of inspiration in the old directory.
+
+
 ## Icon
 
 ### Store Constraints
