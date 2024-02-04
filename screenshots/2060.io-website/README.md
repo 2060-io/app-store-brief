@@ -21,3 +21,5 @@ Restrict access to your services to human only by just let them flash a QR Code 
 
 Build your own chatbot by embedding our open source software containers in your application or service.
 
+## Home download [captures ok]
+
