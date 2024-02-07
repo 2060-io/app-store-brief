@@ -26,7 +26,21 @@ One of:
 - Social Networking (preferred)
 - Messaging
 
+## Description
 
+Hologram is a verifiable credential wallet and messaging app with true privacy preserving features.
+
+Unlike other apps, Hologram is a self-custody app, which means your data is only stored on your device. For this reason, you have a total control of your personal data, which is not shared with us.
+
+Some Hologram features:
+
+- create chat connections with people, credential issuers and conversational services.
+- collect verifiable credentials from issuers and store then securely in your wallet.
+- present verifiable credentials, send text, voice messages, photos, videos and files to your connections.
+
+Hologram is free software and is part of the 2060.io open source project.
+
+Developers can reach our Github repository https://github.com/2060-io to know more about the 2060.io project and to learn how to create their own DIDComm based conversational services.
 
 ## Brief
 
